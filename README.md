@@ -5,9 +5,10 @@
 - 📄 Personal website: [https://sites.google.com/view/ramdb/inicio](https://sites.google.com/view/ramdb/inicio)
 - ⚡ Fun fact: **I am a music lover**
 
-<h3 align="left">Social media:</h3>
+<h3 align="left">Social media</h3>
 <p align="left">
 <a href="https://www.youtube.com/c/rammaken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rammaken" height="30" width="40" /></a>
+<a href="https://www.moddb.com/members/rammaken" target="blank"><img align="center" src="https://www.moddb.com/favicon.png" alt="rammaken" height="38" width="38" /></a>
 </p>
 
 <h3 align="left">Languages</h3>
