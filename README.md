@@ -2,7 +2,6 @@
 <h3 align="center">🇻🇪Venezuelan programmer, S.T.A.L.K.E.R. modmaker and content creator.</h3>
 
 - 🔭 Current project: [xrToolkit](https://github.com/Rammaken/xrToolkit)
-- 📄 Personal website: [https://16nosolitude.neocities.org/](https://16nosolitude.neocities.org/)
 - ⚡ Fun fact: **I am a music lover**
 
 <h3 align="left">Social media</h3>
